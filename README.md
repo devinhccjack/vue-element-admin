@@ -5,7 +5,7 @@ vue-element-admin
 
 
 # 克隆项目
-git clone https://github.com/Angelasp/vue-element-admin.git
+git clone https://github.com/hechongchong/vue-element-admin.git
 
 # 进入项目目录
 cd vue-element-admin
